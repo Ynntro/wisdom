@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+#explaination {
+    text-align: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#horse_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+#questionForm {
+    text-align: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#questionForm input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+}
+
+#submit {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#answerDisplay {
+    text-align: center;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+#siteFooter {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 40px;
+    padding: 10px;
+    border-top: 1px solid white;
+}
+
+#siteFooter a {
+    color: rgb(0, 248, 62);
+    text-decoration: none;
+}
+
+#siteFooter a:hover {
+    text-decoration: underline;
+}
