@@ -19,6 +19,7 @@ document.getElementById("questionForm").addEventListener("submit", function (eve
         "My wisdom is telling me to say yes.",
         "You will discover about it on Friday.",
         "In this glorious day in this glorious planet in this glorious Solar system in the glorious Milky Way galaxy, I say... Maybe idk.",
+        "Yesn't.",
         "I have no idea."
     ]; 
 
